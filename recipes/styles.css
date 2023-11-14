@@ -60,6 +60,7 @@ a{
     border-style: inset;
     border-bottom-right-radius: 50px;
     box-shadow: 5px 20px 75px;
+    max-width: 500px;
     
 }
 
@@ -72,6 +73,7 @@ a{
     border: 4px;
     border-style: inset;
     border-radius: 20px;
+    max-width: 200px;
 }
 
 .columna2{
@@ -112,4 +114,8 @@ a{
 
 .left{
     text-align: left;
+}
+
+.center{
+    text-align: center;
 }
